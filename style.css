@@ -9,6 +9,10 @@ body
 	margin: 0px;
 }
 
+#fejlec{
+	height: 200px;
+}
+
 #wrapper
 {
 	width: 940px;
@@ -134,4 +138,29 @@ section.contpage
 {
 	text-align: center;
 	font-size: 20px;
+}
+
+article p{
+	text-align: justify;
+}
+
+#oldalt{
+	width: 230px;
+	margin-left: 20px;
+	float: right;
+}
+
+aside a{
+	color: #de6581;
+	text-decoration: none;
+}
+
+h1, h2, h3{
+	font-weight: normal;
+}
+
+nav a{
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
 }
